@@ -12,6 +12,8 @@ namespace HelloWorldGitHub
         {
 
             //A comment about this project.
+
+            //This supercool new feature!
         }
     }
 }
